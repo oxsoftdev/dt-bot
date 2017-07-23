@@ -1,1 +1,1 @@
-from .Store import Store
+from .StoreStrategy import StoreStrategy
