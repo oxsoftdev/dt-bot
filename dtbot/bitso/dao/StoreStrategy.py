@@ -1,3 +1,6 @@
+from bitsows.models import OrderUpdate, TradeUpdate
+
+
 class StoreStrategy:
 
     def __init__(self, store):
